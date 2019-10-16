@@ -1,0 +1,8 @@
+padding：即内边距，围绕着内容（比如段落）的空间。
+border：即边框，紧接着内边距的线。
+margin：即外边距，围绕元素外部的空间。
+width ：元素的宽度
+background-color ：元素内容和内边距底下的颜色
+color ：元素内容（通常是文本）的颜色
+text-shadow ：为元素内的文本设置阴影
+display ：设置元素的显示模式（暂略）
